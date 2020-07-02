@@ -6,4 +6,4 @@
 
 
 ## Demonstração
-![Gasoza](https://github.com/ThiagoRipardoDeLima/FrasesDoDia/blob/master/assets/screen/gasoza.gif)
+![Gasoza](https://github.com/ThiagoRipardoDeLima/gasoza/blob/master/assets/screen/gasoza.gif)
