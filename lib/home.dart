@@ -20,13 +20,6 @@ class _HomeState extends State<Home> {
 
     resultado = precoAlcool / precoGasolina;
 
-    print("precoAlcool: " +
-        precoAlcool.toString() +
-        ' precoGasolina: ' +
-        precoGasolina.toString() +
-        " resultado: " +
-        resultado.toString());
-
     if (resultado >= 0.7) {
       mensagem = "Melhor abastecer com alcool";
     }
